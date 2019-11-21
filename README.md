@@ -20,11 +20,10 @@ These files contain changes to the base game rules. The players can change the g
 The gameboard uses two dice and will still take away the unheld points and switches players. The game will also check to see if there were 2 consecutive 6's rolled, and also take away the unheld points and switch players.
 
 
-To Play
+TO PLAY -
 
 Download the files and open them in a browser, and play with a friend!
 
-
-Reporting Bugs and Issues
+REPORTNG BUGS -
 
 If you think you've found a bug, feel free to make a pull request with a detailed description and it will be reviewed.
